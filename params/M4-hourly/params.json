@@ -1,0 +1,20 @@
+{
+    "learning_rate": -1, 
+    "lstm_hidden_dim": -1,
+    "embedding_dim": -1,
+    "lstm_dropout": 0.1,
+    "batch_size": 64,
+    "lstm_layers": 3,
+    "num_epochs": 100,
+    "train_window": 216,
+    "test_window": 216,
+    "predict_start": 168,
+    "test_predict_start": 168,
+    "predict_steps": 48,
+    "num_class": 414,
+    "cov_dim": 2,
+    "predict_batch": 64,
+    "sample_times": 200,
+    "sampling_n": 1000,
+    "max_sampling_n" : 200
+}
