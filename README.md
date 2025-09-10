@@ -33,3 +33,17 @@ Install all dependencies listed in requirements.txt.
   `python test.py`
 3. Evaluate the model performance:
    check the result folder
+
+# Citation
+If this repository is useful for your research, please consider citing it (example format):
+
+@article{song2025nqf,
+  title={NQF-RNN: probabilistic forecasting via neural quantile function-based recurrent neural networks},
+  author={Song, Jungyoon and Chang, Woojin and Song, Jae Wook},
+  journal={Applied Intelligence},
+  volume={55},
+  number={3},
+  pages={183},
+  year={2025},
+  publisher={Springer}
+}
