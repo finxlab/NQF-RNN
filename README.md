@@ -36,7 +36,7 @@ Install all dependencies listed in requirements.txt.
 
 # Citation
 If this repository is useful for your research, please consider citing it (example format):
-
+```bash
 @article{song2025nqf,
   title={NQF-RNN: probabilistic forecasting via neural quantile function-based recurrent neural networks},
   author={Song, Jungyoon and Chang, Woojin and Song, Jae Wook},
