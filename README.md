@@ -1,17 +1,20 @@
 # Original Authors:
 
 Jungyoon Song(song0326@snu.ac.kr) - Seoul National University
+
 Woojin Chang - Seoul National University
+
 Jae Wook Song - Hanyang University
 
-DOI
+Reference:
+
 https://doi.org/10.1007/s10489-024-06077-7
 
 # Data Availability
 
 (https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) − electricity
 
-(https://archive.ics.uci.edu/dataset/204/pems+sf) − traffic [45]
+(https://archive.ics.uci.edu/dataset/204/pems+sf) − traffic
 
 (https://www.nrel.gov/grid/solar-power-data.html) − solar
 
