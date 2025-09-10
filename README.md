@@ -12,6 +12,8 @@ https://doi.org/10.1007/s10489-024-06077-7
 
 # Data Availability
 
+Due to data size limitations, only the M4-hourly dataset has been uploaded.
+
 (https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) − electricity
 
 (https://archive.ics.uci.edu/dataset/204/pems+sf) − traffic
