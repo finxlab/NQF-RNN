@@ -8,7 +8,6 @@ DOI
 https://doi.org/10.1007/s10489-024-06077-7
 
 # Data Availability
-(https://doi.org/10.7910/DVN/W04WWC) 
 
 (https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) − electricity
 
